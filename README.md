@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Giannis, a passionate Frontend Developer, interested in all things JavaScript!
+These days I'm using Vue.js to build interactive UIs.
+
+- 💬 Checkout my blog on [dev.to](https://dev.to/kouts)
+- 📫 Reach me at [Twitter](https://twitter.com/kouts_tweet) and [LinkedIn](https://www.linkedin.com/in/koutsaftakis/)
+
 <!--
 **kouts/kouts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
