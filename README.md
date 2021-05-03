@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Giannis, a passionate Frontend Developer, interested in all things JavaScript!
+I'm Giannis, a passionate Frontend Developer, interested in all things JavaScript!  
 These days I'm using Vue.js to build interactive UIs.
 
 - 💬 Checkout my blog on [dev.to](https://dev.to/kouts)
