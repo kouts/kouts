@@ -1,13 +1,13 @@
-## 🗺️ GitHub Map
+### 🗺️ GitHub Map
 
-### Vue.js
+#### Vue.js
 - [vue-modal](https://github.com/kouts/vue-modal) - A customizable, stackable, and lightweight modal component for Vue.
 - [vue-dataset](https://github.com/kouts/vue-dataset) - A set of Vue.js components to display datasets (lists) with filtering, paging, and sorting capabilities! 
 
-### Vuepress
+#### Vuepress
 - [vuepress-plugin-vue-example](https://github.com/kouts/vuepress-plugin-vue-example) - Display Vue components' live examples and source code inside documentation. 
 
-### Vue.js starter templates
+#### Vue.js starter templates
 - [vue-starter-template](https://github.com/kouts/vue-starter-template) - Vue.js 2 starter template with Vuex, Vue Router, Bootstrap and more.
 - [vue3-starter-template](https://github.com/kouts/vue3-starter-template) - Vue.js 3 starter template with Vuex, Vue Router, Bootstrap and more.
 
