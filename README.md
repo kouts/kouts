@@ -27,8 +27,8 @@
 - [movieapp](https://github.com/kouts/movieapp) - A Vue.js SPA that displays movies using the Movie Database API as it's source.
 - [musicapp](https://github.com/kouts/musicapp) - A Vue.js SPA that displays the Pink Floyd discography using the TheAudioDB API as it's source.
 - [webpack-assets-loader](https://github.com/kouts/webpack-assets-loader) - Load a webpack bundled JavaScript app using just one JS file.
-
-
+<br/>
+<br/>
 💬 Checkout my blog on [dev.to](https://dev.to/kouts)  
 📫 Reach me at [Twitter](https://twitter.com/kouts_tweet) and [LinkedIn](https://www.linkedin.com/in/koutsaftakis/)
 
