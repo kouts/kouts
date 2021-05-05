@@ -11,7 +11,8 @@
 - [vue-starter-template](https://github.com/kouts/vue-starter-template) - Vue.js 2 starter template with Vuex, Vue Router, Bootstrap and more.
 - [vue3-starter-template](https://github.com/kouts/vue3-starter-template) - Vue.js 3 starter template with Vuex, Vue Router, Bootstrap and more.
 
-💬 Checkout my blog on [dev.to](https://dev.to/kouts)
+
+💬 Checkout my blog on [dev.to](https://dev.to/kouts)  
 📫 Reach me at [Twitter](https://twitter.com/kouts_tweet) and [LinkedIn](https://www.linkedin.com/in/koutsaftakis/)
 
 <!--
