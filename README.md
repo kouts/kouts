@@ -17,6 +17,16 @@
 - [ractive-decorators-popper](https://github.com/kouts/ractive-decorators-popper) - Popper decorator for Ractive.
 - [ractive-transitions-css](https://github.com/kouts/ractive-transitions-css) - Use CSS animation classes for in and out transitions.
 
+### SystemJS
+- [systemjs-css-extra ](https://github.com/systemjs/systemjs-css-extra) - Simple CSS loader extra for SystemJS v4 and up.
+
+### ESLint
+- [eslint-config-kouts](https://github.com/kouts/eslint-config-kouts) - Custom ESLint and Prettier config with sensible defaults.
+
+### Small demo apps
+- [movieapp](https://github.com/kouts/movieapp) - A Vue.js SPA that displays movies using the Movie Database API as it's source.
+- [musicapp](https://github.com/kouts/musicapp) - A Vue.js SPA that displays the Pink Floyd discography using the TheAudioDB API as it's source.
+- [webpack-assets-loader](https://github.com/kouts/webpack-assets-loader) - Load a webpack bundled JavaScript app using just one JS file.
 
 
 💬 Checkout my blog on [dev.to](https://dev.to/kouts)  
