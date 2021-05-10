@@ -3,6 +3,7 @@
 #### Vue.js
 - [vue-modal](https://github.com/kouts/vue-modal) - A customizable, stackable, and lightweight modal component for Vue.
 - [vue-dataset](https://github.com/kouts/vue-dataset) - A set of Vue.js components to display datasets (lists) with filtering, paging, and sorting capabilities! 
+- [vue-set-path](https://github.com/kouts/vue-set-path) - Set Vue reactive properties on an object, using dot notation path syntax.
 
 #### Vuepress
 - [vuepress-plugin-vue-example](https://github.com/kouts/vuepress-plugin-vue-example) - Display Vue components' live examples and source code inside documentation. 
