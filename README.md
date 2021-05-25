@@ -1,4 +1,4 @@
-### 🗺️ My Projects
+### 🗺️ Projects
 
 #### Vue.js
 - [vue-modal](https://github.com/kouts/vue-modal) - A customizable, stackable, and lightweight modal component for Vue.
