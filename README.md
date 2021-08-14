@@ -10,8 +10,9 @@
 - [vuepress-plugin-vue-example](https://github.com/kouts/vuepress-plugin-vue-example) - Display Vue components' live examples and source code inside documentation. 
 
 #### Vue.js starter templates
-- [vue-starter-template](https://github.com/kouts/vue-starter-template) - Vue.js 2 starter template with Vuex, Vue Router, Bootstrap and more.
-- [vue3-starter-template](https://github.com/kouts/vue3-starter-template) - Vue.js 3 starter template with Vuex, Vue Router, Bootstrap and more.
+- [vue-starter-template](https://github.com/kouts/vue-starter-template) - Vue.js 2 / Vue CLI starter template with Vuex, Vue Router, Bootstrap and more.
+- [vue-vite-starter-template](https://github.com/kouts/vue-vite-starter-template) - Vue.js 2 / Vite starter template with Vuex, Vue Router, Bootstrap and more.
+- [vue3-starter-template](https://github.com/kouts/vue3-starter-template) - Vue.js 3 / Vue CLI starter template with Vuex, Vue Router, Bootstrap and more.
 
 #### Ractive
 - [ractive-modal](https://github.com/kouts/ractive-modal) - A modal window component for Ractive.
