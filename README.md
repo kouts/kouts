@@ -9,6 +9,9 @@
 #### Vuepress
 - [vuepress-plugin-vue-example](https://github.com/kouts/vuepress-plugin-vue-example) - Display Vue components' live examples and source code inside documentation. 
 
+#### Utilities
+- [promise-loading-handler](https://github.com/kouts/promise-loading-handler) - Handle loading state to avoid progress indicator flicker. 
+
 #### Vue.js starter templates
 - [vue-starter-template](https://github.com/kouts/vue-starter-template) - Vue.js 2 / Vue CLI starter template with Vuex, Vue Router, Bootstrap and more.
 - [vue-vite-starter-template](https://github.com/kouts/vue-vite-starter-template) - Vue.js 2 / Vite starter template with Vuex, Vue Router, Bootstrap and more.
