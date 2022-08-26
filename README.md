@@ -6,7 +6,7 @@
 - [vue-path-store](https://github.com/kouts/vue-path-store) - A simple state management solution for Vue, that uses the dot notation path syntax.
 - [vue-set-path](https://github.com/kouts/vue-set-path) - Set Vue reactive properties on an object, using dot notation path syntax.
 - [vue-search-input](https://github.com/kouts/vue-search-input) - A search input component for Vue.js 3 similar to the global search input of Storybook and GitHub.
-- [vue-simple-dropdown](https://github.com/kouts/vue-simple-dropdown) - A Vue.js 3 dropdown menu component for Vue.js 3 for floating-vue.
+- [vue-simple-dropdown](https://github.com/kouts/vue-simple-dropdown) - A Vue.js 3 dropdown menu component for [floating-vue](https://floating-vue.starpad.dev/).
 
 #### Vuepress
 - [vuepress-plugin-vue-example](https://github.com/kouts/vuepress-plugin-vue-example) - Display Vue components' live examples and source code inside documentation. 
