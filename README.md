@@ -31,7 +31,7 @@
 - [systemjs-css-extra ](https://github.com/systemjs/systemjs-css-extra) - Simple CSS loader extra for SystemJS v4 and up.
 
 #### ESLint
-- [eslint-config-kouts](https://github.com/kouts/eslint-config-kouts) - Custom ESLint and Prettier config with sensible defaults.
+- [eslint-config](https://github.com/kouts/eslint-config) - Custom ESLint and Prettier config with sensible defaults.
 
 #### Sample apps
 - [webpack-assets-loader](https://github.com/kouts/webpack-assets-loader) - Load a webpack bundled JavaScript app using just one JS file.
