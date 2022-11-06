@@ -3,8 +3,8 @@
 #### Vue.js
 - [vue-modal](https://github.com/kouts/vue-modal) - A customizable, stackable, and lightweight modal component for Vue.
 - [vue-dataset](https://github.com/kouts/vue-dataset) - A set of Vue.js components to display datasets (lists) with filtering, paging, and sorting capabilities! 
-- [vue-path-store](https://github.com/kouts/vue-path-store) - A simple state management solution for Vue, that uses the dot notation path syntax.
 - [vue-set-path](https://github.com/kouts/vue-set-path) - Set Vue reactive properties on an object, using dot notation path syntax.
+- [vue-path-store](https://github.com/kouts/vue-path-store) - A simple state management solution for Vue, that uses the dot notation path syntax.
 - [vue-search-input](https://github.com/kouts/vue-search-input) - A search input component for Vue.js 3 similar to the global search input of Storybook and GitHub.
 - [vue-simple-dropdown](https://github.com/kouts/vue-simple-dropdown) - A Vue.js 3 dropdown menu component for [floating-vue](https://floating-vue.starpad.dev/).
 
