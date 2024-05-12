@@ -35,14 +35,14 @@
 
 #### Sample apps
 - [webpack-assets-loader](https://github.com/kouts/webpack-assets-loader) - Load a webpack bundled JavaScript app using just one JS file.
-- [movie-app](https://github.com/kouts/movie-app) - A Vue.js SPA that displays movies using the Movie Database API as it's source.
-- [music-app](https://github.com/kouts/music-app) - A Vue.js SPA that displays the Pink Floyd discography using the TheAudioDB API as it's source.
+- [movie-app](https://github.com/kouts/movie-app) - A Vue.js SPA that displays movies using the Movie Database API as its source.
+- [music-app](https://github.com/kouts/music-app) - A Vue.js SPA that displays the Pink Floyd discography using the TheAudioDB API as its source.
 - [analytics-app](https://github.com/kouts/analytics-app) - An API health reporting page PoC using Vue.js.
 - [marketing-popup](https://github.com/kouts/marketing-popup) - A Vue.js / Lumen demo SPA to create, configure, and display marketing popups.
 
 <br />
 
-💬 Checkout my blog on [dev.to](https://dev.to/kouts)  
+💬 Checkout my blog at [dev.to](https://dev.to/kouts)  
 📫 Reach me at [Twitter](https://twitter.com/kouts_tweet) and [LinkedIn](https://www.linkedin.com/in/koutsaftakis/)
 
 <!--
