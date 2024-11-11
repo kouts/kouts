@@ -43,7 +43,7 @@
 <br />
 
 💬 Checkout my blog at [dev.to](https://dev.to/kouts)  
-📫 Reach me at [Twitter](https://twitter.com/kouts_tweet) and [LinkedIn](https://www.linkedin.com/in/koutsaftakis/)
+📫 Reach me at [Twitter](https://twitter.com/kouts_tweet), [Bluesky](https://bsky.app/profile/kouts-bsky.bsky.social), and [LinkedIn](https://www.linkedin.com/in/koutsaftakis/)
 
 <!--
 **kouts/kouts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
