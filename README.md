@@ -15,7 +15,7 @@
 - [promise-loading-handler](https://github.com/kouts/promise-loading-handler) - Handle loading state to avoid progress indicator flicker. 
 
 #### Starter templates
-- [https://github.com/kouts/vite-treeshakable-library] - A template for creating JavaScript libraries optimized for tree-shaking.
+- [vite-treeshakable-library](https://github.com/kouts/vite-treeshakable-library) - A template for creating JavaScript libraries optimized for tree-shaking.
 - [vue3-ts-vite-starter-template](https://github.com/kouts/vue3-ts-vite-starter-template) - Vue.js 3 TypeScript / Vite starter template with Pinia, Vue Router, Tailwind and more.
 - [vue3-vite-starter-template](https://github.com/kouts/vue3-vite-starter-template) - Vue.js 3 / Vite starter template with Pinia, Vue Router, Bootstrap and more.
 - [vue3-starter-template](https://github.com/kouts/vue3-starter-template) - Vue.js 3 / Vue CLI starter template with Pinia, Vue Router, Bootstrap and more.
